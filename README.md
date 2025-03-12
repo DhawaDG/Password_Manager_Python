@@ -42,4 +42,4 @@ A secure CLI-based password manager to store and generate passwords for differen
 ---
 
 *** Author Name *** 
-Dhawa Dorje Ghising (DG)
+Dhawa Dorje Ghising (DhawaDG)
