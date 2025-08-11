@@ -40,6 +40,4 @@ A secure CLI-based password manager to store and generate passwords for differen
 - **Develop a GUI for better user experience**: Create a graphical user interface for easier interaction and improved usability.
 
 ---
-
-*** Author Name *** 
-Dhawa Dorje Ghising (DhawaDG)
+##  **📂[Python Fundamentals Projects List →](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** 
